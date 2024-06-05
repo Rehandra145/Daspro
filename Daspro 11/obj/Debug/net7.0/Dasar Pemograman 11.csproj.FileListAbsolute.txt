@@ -1,0 +1,14 @@
+C:\Users\infinix\Desktop\Dasar Pemograman 11\bin\Debug\net7.0\Dasar Pemograman 11.exe
+C:\Users\infinix\Desktop\Dasar Pemograman 11\bin\Debug\net7.0\Dasar Pemograman 11.deps.json
+C:\Users\infinix\Desktop\Dasar Pemograman 11\bin\Debug\net7.0\Dasar Pemograman 11.runtimeconfig.json
+C:\Users\infinix\Desktop\Dasar Pemograman 11\bin\Debug\net7.0\Dasar Pemograman 11.dll
+C:\Users\infinix\Desktop\Dasar Pemograman 11\bin\Debug\net7.0\Dasar Pemograman 11.pdb
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.AssemblyInfo.cs
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.dll
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\refint\Dasar Pemograman 11.dll
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.pdb
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\Dasar Pemograman 11.genruntimeconfig.cache
+C:\Users\infinix\Desktop\Dasar Pemograman 11\obj\Debug\net7.0\ref\Dasar Pemograman 11.dll

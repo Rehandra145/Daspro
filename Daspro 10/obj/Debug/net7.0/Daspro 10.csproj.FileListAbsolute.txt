@@ -1,0 +1,14 @@
+C:\Users\infinix\Desktop\Daspro 10\bin\Debug\net7.0\Daspro 10.exe
+C:\Users\infinix\Desktop\Daspro 10\bin\Debug\net7.0\Daspro 10.deps.json
+C:\Users\infinix\Desktop\Daspro 10\bin\Debug\net7.0\Daspro 10.runtimeconfig.json
+C:\Users\infinix\Desktop\Daspro 10\bin\Debug\net7.0\Daspro 10.dll
+C:\Users\infinix\Desktop\Daspro 10\bin\Debug\net7.0\Daspro 10.pdb
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.AssemblyInfo.cs
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.dll
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\refint\Daspro 10.dll
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.pdb
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\Daspro 10.genruntimeconfig.cache
+C:\Users\infinix\Desktop\Daspro 10\obj\Debug\net7.0\ref\Daspro 10.dll

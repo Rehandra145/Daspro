@@ -1,0 +1,14 @@
+C:\Users\infinix\Desktop\Daspro 7\bin\Debug\net7.0\Daspro 7.exe
+C:\Users\infinix\Desktop\Daspro 7\bin\Debug\net7.0\Daspro 7.deps.json
+C:\Users\infinix\Desktop\Daspro 7\bin\Debug\net7.0\Daspro 7.runtimeconfig.json
+C:\Users\infinix\Desktop\Daspro 7\bin\Debug\net7.0\Daspro 7.dll
+C:\Users\infinix\Desktop\Daspro 7\bin\Debug\net7.0\Daspro 7.pdb
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.AssemblyInfo.cs
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.dll
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\refint\Daspro 7.dll
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.pdb
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\Daspro 7.genruntimeconfig.cache
+C:\Users\infinix\Desktop\Daspro 7\obj\Debug\net7.0\ref\Daspro 7.dll

@@ -1,0 +1,14 @@
+C:\Users\infinix\Desktop\UTS NO 2\bin\Debug\net7.0\UTS NO 2.exe
+C:\Users\infinix\Desktop\UTS NO 2\bin\Debug\net7.0\UTS NO 2.deps.json
+C:\Users\infinix\Desktop\UTS NO 2\bin\Debug\net7.0\UTS NO 2.runtimeconfig.json
+C:\Users\infinix\Desktop\UTS NO 2\bin\Debug\net7.0\UTS NO 2.dll
+C:\Users\infinix\Desktop\UTS NO 2\bin\Debug\net7.0\UTS NO 2.pdb
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.AssemblyInfo.cs
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.dll
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\refint\UTS NO 2.dll
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.pdb
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\UTS NO 2.genruntimeconfig.cache
+C:\Users\infinix\Desktop\UTS NO 2\obj\Debug\net7.0\ref\UTS NO 2.dll

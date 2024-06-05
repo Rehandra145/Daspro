@@ -1,0 +1,28 @@
+C:\Users\infinix\Desktop\UTS NO 3\bin\Debug\net7.0\UTS NO 3.exe
+C:\Users\infinix\Desktop\UTS NO 3\bin\Debug\net7.0\UTS NO 3.deps.json
+C:\Users\infinix\Desktop\UTS NO 3\bin\Debug\net7.0\UTS NO 3.runtimeconfig.json
+C:\Users\infinix\Desktop\UTS NO 3\bin\Debug\net7.0\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\bin\Debug\net7.0\UTS NO 3.pdb
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.AssemblyInfo.cs
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\refint\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.pdb
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\UTS NO 3.genruntimeconfig.cache
+C:\Users\infinix\Desktop\UTS NO 3\obj\Debug\net7.0\ref\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\bin\Debug\net7.0\UTS NO 3.exe
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\bin\Debug\net7.0\UTS NO 3.deps.json
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\bin\Debug\net7.0\UTS NO 3.runtimeconfig.json
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\bin\Debug\net7.0\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\bin\Debug\net7.0\UTS NO 3.pdb
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.AssemblyInfoInputs.cache
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.AssemblyInfo.cs
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.csproj.CoreCompileInputs.cache
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\refint\UTS NO 3.dll
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.pdb
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\UTS NO 3.genruntimeconfig.cache
+C:\Users\infinix\Desktop\UTS NO 3\UTS NO 3\obj\Debug\net7.0\ref\UTS NO 3.dll
